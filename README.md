@@ -1,7 +1,7 @@
 # cocktail_recipes
 
 <h3>Over-view of Project</h3>
-- The project is created around a recipe-book for cocktails.
+- The project is created around a recipe-book for cocktails <br>.
 - This website list a few drinks that are great for hosting guest.
 - In this project we have an image of the cocktail.
 - Underneath we have the ingredients for the drinks themselves. 
