@@ -1,4 +1,4 @@
-# cocktail_recipes
+# Cocktail_Recipes
 
 <h3>Understand the project:</h3>
 - The project is created around a recipe-book for cocktails.<br>
